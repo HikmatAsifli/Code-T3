@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: deepskyblue;
+    color: white;
+    padding: 20px 0 20px 40px;
+}
+.feadback__textarea{
+    background-color: green;
+    border: 3px solid rgb(69, 185, 69);
+    width: 500px;
+    margin: 20px auto 20px;
+    padding: 20px;
+
+}
+h6{
+    text-align: right;
+}
+.feedback__sumbit__area{
+    background-color: red;
+    color: white;
+    border: 3px solid rgb(145, 56, 56);
+    width: 300px;
+    height: 100px;
+    margin: 0 auto 20px;
+    border-radius: 30px;
+    padding: 20px 0 0 0;
+}
+span{
+    padding: 50px;
+}
+a{
+    color: white;
+    text-align: center;
+}
+.generator{
+    background-color: lightslategrey;
+    color: white;
+    padding: 40px;
+}
+.footer{
+    background-color:rgb(0, 4, 81);
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    
+}
+.footer__link{
+    text-decoration: none;
+}

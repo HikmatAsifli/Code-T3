@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 800px;
+    height: 600px;
+    padding: 10px 100px;
+    background-color: rgb(234, 196, 153);
+}
+.image{
+    text-align: center;
+    border-bottom: 1px solid rgba(24, 123, 173, 0.881);
+    padding: 0 50px;
+}
+h5{
+    color: orangered;
+    padding: 10px;
+}
+p{
+    padding: 10px 0 0 10px;
+}
+h1{
+    padding: 5px 0 0 0;
+}
